@@ -1,4 +1,4 @@
-import { call, put, take, takeEvery } from 'redux-saga/effects';
+import { call, put, takeEvery } from 'redux-saga/effects';
 
 const apiUrl = 'https://5fa3d0d9f10026001618df85.mockapi.io/users';
 
